@@ -1,3 +1,3 @@
-# api-prd.staking.consensys.io
+# api.staking-uat.consensys.io
 
 ## hi
